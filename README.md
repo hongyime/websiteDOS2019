@@ -91,3 +91,7 @@ code to launch a ddos attack on an IP.
 6. Double click to run the programme
 
 **REMINDER: Unauthorized use is ILLEGAL and will result in criminal prosecution.**
+
+## License
+
+Apache-2.0. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
